@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<bodycolor>#30a18e</bodycolor>
+	<bodybg>bg_img.jpg</bodybg>
+	<headertxt>Celebrate Women's History Month with the NC Collection </headertxt>
+	<headertxtclr>#ffffff</headertxtclr>
+	<headerbgclr>#6d9cd9</headerbgclr>
+	<img01name>image01.jpg</img01name>
+	<img01title>First Image</img01title>
+	<img01desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Malesuada pellentesque elit eget gravida. Faucibus et molestie ac feugiat sed lectus vestibulum mattis. </img01desc>
+	<img02name>image02.jpg</img02name>
+	<img02title>Second Image</img02title>
+	<img02desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Malesuada pellentesque elit eget gravida. Faucibus et molestie ac feugiat sed lectus vestibulum mattis. </img02desc>
+	<img03name>image03.jpg</img03name>
+	<img03title>Third Image</img03title>
+	<img03desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Malesuada pellentesque elit eget gravida. Faucibus et molestie ac feugiat sed lectus vestibulum mattis. </img03desc>
+	<img04name>image04.jpg</img04name>
+	<img04title>Fourth Image</img04title>
+	<img04desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Malesuada pellentesque elit eget gravida. Faucibus et molestie ac feugiat sed lectus vestibulum mattis. </img04desc>
+	<img05name>image05.jpg</img05name>
+	<img05title>Fifth Image</img05title>
+	<img05desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Malesuada pellentesque elit eget gravida. Faucibus et molestie ac feugiat sed lectus vestibulum mattis. </img05desc>
+	<img06name>image06.jpg</img06name>
+	<img06title>Sixth Image</img06title>
+	<img06desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Malesuada pellentesque elit eget gravida. Faucibus et molestie ac feugiat sed lectus vestibulum mattis. </img06desc>
+	<img07name>image07.jpg</img07name>
+	<img07title>Seventh Image</img07title>
+	<img07desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Malesuada pellentesque elit eget gravida. Faucibus et molestie ac feugiat sed lectus vestibulum mattis. </img07desc>
+	<img08name>image08.jpg</img08name>
+	<img08title>Eighth Image</img08title>
+	<img08desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Malesuada pellentesque elit eget gravida. Faucibus et molestie ac feugiat sed lectus vestibulum mattis. </img08desc>
+</config>
